@@ -1,4 +1,4 @@
-# Weather-App <br/>
+# Todo-App <br/>
 
 ToDo-App is a React application that allows users to manage their tasks efficiently. Users can create, read, update, and delete (CRUD) tasks with a user-friendly interface.
 
@@ -17,7 +17,7 @@ Screenshots
 
 ### Demo <br/>
 
-Check out the live demo [here](https://reactweather0.netlify.app/).
+Check out the live demo [here](https://todo-git.netlify.app/).
 
 ### Getting Started <br/>
 
