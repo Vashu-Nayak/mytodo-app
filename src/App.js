@@ -30,14 +30,14 @@ function App() {
         &nbsp;&nbsp;&nbsp;
         <button id='taskbutton' onClick={addTodo}>Add</button>
       </div>
-      {/* <ul style={{listStyle:"none"}}>
+      <ul style={{listStyle:"none"}}>
         {todos.map((todo, index) => (
           <li key={index}>
             {index+1 } &nbsp; &nbsp; {todo} &nbsp; &nbsp;
             <button onClick={() => removeTodo(index)}>Remove</button>
           </li>
         ))}
-      </ul> */}
+      </ul>
       &nbsp;
       <br />
       <br />
