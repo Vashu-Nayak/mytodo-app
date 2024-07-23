@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Weather-App <br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ToDo-App is a React application that allows users to manage their tasks efficiently. Users can create, read, update, and delete (CRUD) tasks with a user-friendly interface.
 
-## Available Scripts
+## Features <br/>
 
-In the project directory, you can run:
+Add new tasks.
+View a list of tasks.
+Update existing tasks.
+Delete tasks.
+Mark tasks as completed.
+Responsive design.
 
-### `npm start`
+Screenshots
+![Screenshot 2024-07-23 104946](https://github.com/user-attachments/assets/9b6aebfc-7390-45c6-96c8-3cedc3762024) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Demo <br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Check out the live demo [here](https://reactweather0.netlify.app/).
 
-### `npm test`
+### Getting Started <br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes. <br/>
 
-### `npm run build`
+### Prerequisites <br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You need to have the following software installed on your machine: <br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Node.js
+npm (Node Package Manager) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Installation <br/>
+Clone the repository: <br/>
 
-### `npm run eject`
+sh
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+git clone https://github.com/Vashu-Nayak/Todo-App.git <br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Navigate to the project directory: <br/>
+sh
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+cd Todo-App
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Install the dependencies: <br/>
+sh
 
-## Learn More
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Usage <br/>
 
-### Code Splitting
+Start the development server:
+sh
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm start
+Open your browser and go to http://localhost:3000. <br/>
+Built With <br/>
+React - A JavaScript library for building user interfaces. <br/>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+License <br/>
+This project is licensed under the MIT License - see the [LICENSE file](https://github.com/Vashu-Nayak/Todo-App/blob/main/LICENSE) for details.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
