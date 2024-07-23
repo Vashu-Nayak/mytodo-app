@@ -12,7 +12,8 @@ Mark tasks as completed.
 Responsive design.
 
 Screenshots
-![Screenshot 2024-07-23 104946](https://github.com/user-attachments/assets/9b6aebfc-7390-45c6-96c8-3cedc3762024) 
+![Screenshot 2024-07-23 163238](https://github.com/user-attachments/assets/bfefe8b8-9ebd-4062-baab-f7eea5f7b51a)
+
 
 ### Demo <br/>
 
@@ -59,5 +60,5 @@ React - A JavaScript library for building user interfaces. <br/>
 
 
 License <br/>
-This project is licensed under the MIT License - see the [LICENSE file](https://github.com/Vashu-Nayak/Todo-App/blob/main/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE file]() for details.
 
